@@ -20,6 +20,6 @@ if errorlevel 1 (
 )
 
 echo Starting Streamlit server...
-streamlit run app.py
+python run_app.py
 
 pause
